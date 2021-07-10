@@ -24,10 +24,10 @@ th {
     background: lightgray;
     font-weight: bold;
     padding: 6px;
-    outline: thin solid black;
+    outline: 2px solid black;
 }
 td {
     background: lightgray;
     padding: 6px;
-    outline: thin solid black;
+    outline: 2px solid black;
 }
