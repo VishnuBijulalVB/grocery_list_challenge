@@ -1,0 +1,33 @@
+body {
+    background-color: bisque;
+}
+h1{
+    margin-left: 42%;
+    margin-top: 10%;
+    color: greenyellow;
+    font-family: 'Courier New', Courier, monospace;
+}
+.wrapper{
+    text-align: center;
+    margin-top: 2%;
+}
+.button {
+    margin-left: 1%;
+}
+table {
+    margin-top: 5%;
+    width: 50%;
+    text-align: center;
+    margin-left: 28%;
+}
+th {
+    background: lightgray;
+    font-weight: bold;
+    padding: 6px;
+    outline: thin solid black;
+}
+td {
+    background: lightgray;
+    padding: 6px;
+    outline: thin solid black;
+}
