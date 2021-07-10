@@ -17,7 +17,7 @@ function ajax(){
             output+=`<th> Quantity </th>`;
             output+=`<th> Unit </th>`;
             output+=`<th> Department </th>`;
-            output+=`<th> Notes </th>`;
+            output+=`<th> Note </th>`;
             output+=`<tr>`;
 
             for (i=0;i<Jgrocery.length;i++) {
