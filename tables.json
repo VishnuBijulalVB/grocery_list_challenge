@@ -1,0 +1,60 @@
+{
+    "grocery": [
+        {
+            "slno": "1",
+            "item": "Bread",
+            "quantity":"1",
+            "unit":"Packet",
+            "department":"Bakery",
+            "notes":"Milk Bread"
+        },
+        {
+            "slno": "2",
+            "item": "Rice",
+            "quantity":"10",
+            "unit":"Kg",
+            "department":"Rice",
+            "notes":"Brown"
+        },
+        {
+            "slno": "3",
+            "item": "Coconut Oil",
+            "quantity":"1",
+            "unit":"Litre",
+            "department":"Oil",
+            "notes":"Or Palm Oil"
+        },
+        {
+            "slno": "4",
+            "item": "Onion",
+            "quantity":"2",
+            "unit":"Kg",
+            "department":"Vegetables",
+            "notes":"Red"
+        },
+        {
+            "slno": "5",
+            "item": "Kadala",
+            "quantity":"1",
+            "unit":"Kg",
+            "department":"Pulses",
+            "notes":"White"
+        },
+        {
+            "slno": "6",
+            "item": "Soya Bean",
+            "quantity":"3",
+            "unit":"Packet",
+            "department":"Pulses",
+            "notes":"-"
+        },
+        {
+            "slno": "7",
+            "item": "Egg",
+            "quantity":"1",
+            "unit":"Dozen",
+            "department":"Egg",
+            "notes":"Chicken/Duck"
+        }
+    ]
+}
